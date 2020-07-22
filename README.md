@@ -66,4 +66,4 @@ Describe in words (no working example necessary) how one would expand this to co
 
 ## My Solution
 
-I decided (both for the interview and this repo) to try and tackle the problem using C# and .NET, using the Visual Studio IDE. The project currently has a solution for the first assignment.
+I decided (both for the interview and this repo) to try and tackle the problem using C# and .NET, using the Visual Studio IDE. The project currently has a solution for the first part of the assignment.
